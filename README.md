@@ -2,23 +2,6 @@ Este projeto é uma landing page de tecnologia, desenvolvida em HTML + CSS + Jav
 O objetivo é treinar construção de interfaces modernas, focando em design UI/UX, responsividade e interatividade, criando uma experiência visual mais profissional e atrativa.
 
 
-
-
-## 🌐 Acesse o Projeto
-
-<br>
-<br>
-
-
-Você pode visualizar o projeto diretamente pelo navegador:
-
-## 🔗 Link do projeto:
-
-👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
-
-Basta clicar no link ou colar no navegador.
-
-
 ---
 
 
@@ -68,9 +51,27 @@ Projeto desenvolvido para fins educacionais. Inspirado em interfaces modernas de
 Foco maior em design e experiência do usuário
 
 
-📸 Capturas de Tela
-Tela Principal
 
+
+📸 Capturas de Tela
+
+![Tela 1](img/tela-1.png)
+![Tela 2](img/tela-2.png)
+![Tela 3](img/tela-3.png)
+
+
+## 🌐 Acesse o Projeto
+
+<br>
+
+
+Você pode visualizar o projeto diretamente pelo navegador:
+
+## 🔗 Link do projeto:
+
+👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+
+Basta clicar no link ou colar no navegador.
 
 
 Destaque do Produto
@@ -80,7 +81,7 @@ Melhorar responsividade para mobile
 Adicionar animações mais avançadas (ex: GSAP)
 Transformar em projeto React (componentização)
 Criar página de produtos dinâmica
-Implementar funcionalidades de e-commerce
+
 🧠 Insight rápido
 
 Projeto simples, mas com visual forte — isso já te posiciona melhor que muito dev iniciante.
