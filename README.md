@@ -19,8 +19,6 @@ Você pode visualizar o projeto diretamente pelo navegador:
 Basta clicar no link ou colar no navegador.
 
 
-
-
 ---
 
 
@@ -40,19 +38,7 @@ Estrutura preparada para evolução (ex: catálogo de produtos) <br>
 
 
 
-## 📂 Estrutura do Projeto
-
-
-html → Estrutura principal da página
-scss → Estilização e design da interface
-js → Interações e comportamentos
-img/ → Imagens e assets do projeto
-
----
-
-
-
-🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 
 <br>
 
@@ -60,6 +46,8 @@ HTML5 → Estrutura semântica
 CSS3 → Estilização moderna (flexbox, gradientes, efeitos visuais)
 JavaScript → Interatividade da página
 Live Server (VS Code) → Execução em tempo real
+
+
 
 📖 O que aprendi com este projeto
 
@@ -73,11 +61,17 @@ Estruturar projetos front-end de forma organizada
 
 
 ⚠️ Observações Importantes
-Projeto desenvolvido para fins educacionais
-Inspirado em interfaces modernas de produtos tecnológicos
+
+<br>
+
+Projeto desenvolvido para fins educacionais. Inspirado em interfaces modernas de produtos tecnológicos
 Foco maior em design e experiência do usuário
+
+
 📸 Capturas de Tela
 Tela Principal
+
+
 
 Destaque do Produto
 
