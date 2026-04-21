@@ -7,8 +7,6 @@ O objetivo é treinar construção de interfaces modernas, focando em design UI/
 
 ## 🚀 Funcionalidades
 
-<br>
-
 Exibição de produto em destaque (Hero Section) <br>
 Navegação simples (Home, Produtos, Contato) <br>
 Botão de ação (Call To Action - "Saiba mais") <br>
@@ -16,11 +14,11 @@ Elementos visuais animados (círculos e efeitos)<br>
 Layout moderno com dark mode + gradiente <br>
 Estrutura preparada para evolução (ex: catálogo de produtos) <br>
 
----
+
+<br>
 
 ##🛠️ Tecnologias Utilizadas
 
-<br>
 
 HTML5 → Estrutura semântica
 CSS3 → Estilização moderna (flexbox, gradientes, efeitos visuais)
@@ -28,10 +26,10 @@ JavaScript → Interatividade da página
 Live Server (VS Code) → Execução em tempo real
 
 
+<br>
 
 📖 O que aprendi com este projeto
 
-<br>
 
 Criar layouts modernos com foco em UI/UX
 Trabalhar com posicionamento e responsividade
@@ -40,14 +38,17 @@ Utilizar efeitos visuais para melhorar a experiência
 Estruturar projetos front-end de forma organizada
 
 
+<br>
+
 ⚠️ Observações Importantes
 
-<br>
 
 Projeto desenvolvido para fins educacionais. Inspirado em interfaces modernas de produtos tecnológicos
 Foco maior em design e experiência do usuário
 
 
+
+<br>
 
 
 📸 Capturas de Tela
@@ -58,8 +59,6 @@ Foco maior em design e experiência do usuário
 
 
 ## 🌐 Acesse o Projeto
-
-<br>
 
 
 Você pode visualizar o projeto diretamente pelo navegador:
