@@ -4,6 +4,7 @@ O objetivo é treinar construção de interfaces modernas, focando em design UI/
 ---
 
 <br>
+<br>
 
 ## 🚀 Funcionalidades
 
@@ -14,22 +15,20 @@ Elementos visuais animados (círculos e efeitos)<br>
 Layout moderno com dark mode + gradiente <br>
 Estrutura preparada para evolução (ex: catálogo de produtos) <br>
 
-
+<br>
 <br>
 
 ## 🛠️ Tecnologias Utilizadas
-
 
 HTML5 → Estrutura semântica
 CSS3 → Estilização moderna (flexbox, gradientes, efeitos visuais)
 JavaScript → Interatividade da página
 Live Server (VS Code) → Execução em tempo real
 
-
+<br>
 <br>
 
 ## 📖 O que aprendi com este projeto
-
 
 Criar layouts modernos com foco em UI/UX
 Trabalhar com posicionamento e responsividade
@@ -37,7 +36,7 @@ Aplicar hierarquia visual (título, descrição, CTA)
 Utilizar efeitos visuais para melhorar a experiência
 Estruturar projetos front-end de forma organizada
 
-
+<br>
 <br>
 
 ## ⚠️ Observações Importantes
@@ -46,10 +45,8 @@ Estruturar projetos front-end de forma organizada
 Projeto desenvolvido para fins educacionais. Inspirado em interfaces modernas de produtos tecnológicos
 Foco maior em design e experiência do usuário
 
-
-
 <br>
-
+<br>
 
 ## 📸 Capturas de Tela
 
@@ -58,14 +55,16 @@ Foco maior em design e experiência do usuário
 ![Tela 3](img/tela-3.png)
 
 <br>
+<br>
 
 ## 🌐 Acesse o Projeto
 
-Você pode visualizar o projeto diretamente pelo navegador:
-👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+Você pode visualizar o projeto diretamente pelo navegador: <br>
+👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/ <br>
 Basta clicar no link ou colar no navegador.
 
-
+<br>
+<br>
 
 ## 📌 Próximos Passos
 
@@ -73,6 +72,9 @@ Melhorar responsividade para mobile
 Adicionar animações mais avançadas (ex: GSAP)
 Transformar em projeto React (componentização)
 Criar página de produtos dinâmica
+
+<br>
+<br>
 
 ## 🧠 Insight rápido
 
