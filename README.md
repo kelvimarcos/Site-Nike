@@ -22,6 +22,8 @@ Basta clicar no link ou colar no navegador.
 
 
 ---
+
+
 ## 🚀 Funcionalidades
 
 <br>
@@ -34,12 +36,12 @@ Layout moderno com dark mode + gradiente <br>
 Estrutura preparada para evolução (ex: catálogo de produtos) <br>
 
 
-
-
 ---
+
+
+
 ## 📂 Estrutura do Projeto
 
-<br>
 
 html → Estrutura principal da página
 scss → Estilização e design da interface
@@ -47,6 +49,9 @@ js → Interações e comportamentos
 img/ → Imagens e assets do projeto
 
 ---
+
+
+
 🛠️ Tecnologias Utilizadas
 
 <br>
@@ -65,6 +70,8 @@ Trabalhar com posicionamento e responsividade
 Aplicar hierarquia visual (título, descrição, CTA)
 Utilizar efeitos visuais para melhorar a experiência
 Estruturar projetos front-end de forma organizada
+
+
 ⚠️ Observações Importantes
 Projeto desenvolvido para fins educacionais
 Inspirado em interfaces modernas de produtos tecnológicos
