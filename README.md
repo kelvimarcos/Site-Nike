@@ -1,25 +1,31 @@
 Este projeto é uma landing page de tecnologia, desenvolvida em HTML + CSS + JavaScript como parte das aulas do Dev Club.
 O objetivo é treinar construção de interfaces modernas, focando em design UI/UX, responsividade e interatividade, criando uma experiência visual mais profissional e atrativa.
 
-##🌐 Acesse o Projeto
 
 
----
+
+## 🌐 Acesse o Projeto
+
+<br>
+<br>
+
 
 Você pode visualizar o projeto diretamente pelo navegador:
 
-🔗 Link do projeto:
----
+## 🔗 Link do projeto:
+
 👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 Basta clicar no link ou colar no navegador.
 
 
----
----
 
-##🚀 Funcionalidades
+
 ---
+## 🚀 Funcionalidades
+
+<br>
+
 Exibição de produto em destaque (Hero Section) <br>
 Navegação simples (Home, Produtos, Contato) <br>
 Botão de ação (Call To Action - "Saiba mais") <br>
@@ -28,21 +34,32 @@ Layout moderno com dark mode + gradiente <br>
 Estrutura preparada para evolução (ex: catálogo de produtos) <br>
 
 
----
----
 
-##📂 Estrutura do Projeto
+
 ---
-index.html → Estrutura principal da página
-style.css → Estilização e design da interface
-script.js → Interações e comportamentos
+## 📂 Estrutura do Projeto
+
+<br>
+
+html → Estrutura principal da página
+scss → Estilização e design da interface
+js → Interações e comportamentos
 img/ → Imagens e assets do projeto
+
+---
 🛠️ Tecnologias Utilizadas
+
+<br>
+
 HTML5 → Estrutura semântica
 CSS3 → Estilização moderna (flexbox, gradientes, efeitos visuais)
 JavaScript → Interatividade da página
 Live Server (VS Code) → Execução em tempo real
+
 📖 O que aprendi com este projeto
+
+<br>
+
 Criar layouts modernos com foco em UI/UX
 Trabalhar com posicionamento e responsividade
 Aplicar hierarquia visual (título, descrição, CTA)
