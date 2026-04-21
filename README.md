@@ -9,6 +9,7 @@ O objetivo é treinar construção de interfaces modernas, focando em design UI/
 Você pode visualizar o projeto diretamente pelo navegador:
 
 🔗 Link do projeto:
+---
 👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 Basta clicar no link ou colar no navegador.
@@ -16,14 +17,22 @@ Basta clicar no link ou colar no navegador.
 
 ---
 ---
-🚀 Funcionalidades
-Exibição de produto em destaque (Hero Section)
-Navegação simples (Home, Produtos, Contato)
-Botão de ação (Call To Action - "Saiba mais")
-Elementos visuais animados (círculos e efeitos)
-Layout moderno com dark mode + gradiente
-Estrutura preparada para evolução (ex: catálogo de produtos)
-📂 Estrutura do Projeto
+
+##🚀 Funcionalidades
+---
+Exibição de produto em destaque (Hero Section) <br>
+Navegação simples (Home, Produtos, Contato) <br>
+Botão de ação (Call To Action - "Saiba mais") <br>
+Elementos visuais animados (círculos e efeitos)<br>
+Layout moderno com dark mode + gradiente <br>
+Estrutura preparada para evolução (ex: catálogo de produtos) <br>
+
+
+---
+---
+
+##📂 Estrutura do Projeto
+---
 index.html → Estrutura principal da página
 style.css → Estilização e design da interface
 script.js → Interações e comportamentos
