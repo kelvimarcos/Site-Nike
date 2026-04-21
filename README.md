@@ -4,7 +4,6 @@ O objetivo é treinar construção de interfaces modernas, focando em design UI/
 ---
 
 <br>
-<br>
 
 ## 🚀 Funcionalidades
 
