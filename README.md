@@ -1,9 +1,10 @@
 Este projeto é uma landing page de tecnologia, desenvolvida em HTML + CSS + JavaScript como parte das aulas do Dev Club.
 O objetivo é treinar construção de interfaces modernas, focando em design UI/UX, responsividade e interatividade, criando uma experiência visual mais profissional e atrativa.
 
-
 ---
 
+<br>
+<br>
 
 ## 🚀 Funcionalidades
 
@@ -16,10 +17,7 @@ Elementos visuais animados (círculos e efeitos)<br>
 Layout moderno com dark mode + gradiente <br>
 Estrutura preparada para evolução (ex: catálogo de produtos) <br>
 
-
 ---
-
-
 
 ##🛠️ Tecnologias Utilizadas
 
